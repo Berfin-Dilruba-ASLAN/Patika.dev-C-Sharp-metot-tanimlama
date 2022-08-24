@@ -1,0 +1,16 @@
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.exe
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.deps.json
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.runtimeconfig.json
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.runtimeconfig.dev.json
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.dll
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\ref\metot_tanimlama.dll
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\bin\Debug\net5.0\metot_tanimlama.pdb
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.csproj.AssemblyReference.cache
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.AssemblyInfoInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.AssemblyInfo.cs
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.dll
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\ref\metot_tanimlama.dll
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.pdb
+C:\Users\Sercan\Desktop\patika.dev\metot_tanımlama\metot_tanimlama\metot_tanimlama\obj\Debug\net5.0\metot_tanimlama.genruntimeconfig.cache

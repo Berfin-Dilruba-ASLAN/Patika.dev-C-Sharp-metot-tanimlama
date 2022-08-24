@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "metot_tanimlama/1.0.0": {
+        "runtime": {
+          "metot_tanimlama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metot_tanimlama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
